@@ -16,6 +16,6 @@ C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 
 5. edit steam shortcut target
 
-"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -File "steamepic_bootstrap.ps1"
+"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -File "F:\steamepic\steamepic_bootstrap.ps1"
 
 6. enjoy!
